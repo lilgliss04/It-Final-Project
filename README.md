@@ -22,6 +22,3 @@ Building on the basics, we'll explore sequential and combinatorial circuits, dis
 
 ## Conclusion
 Congratulations! You've completed the Digital Systems Mastery Tutorial. Now you have a solid understanding of the core principles that power digital systems.
-
----
-**Note:** If you find any errors, want to contribute, or have suggestions, feel free to create an issue or submit a pull request.
